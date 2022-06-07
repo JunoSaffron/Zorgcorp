@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root{
-   --green:#00E77F;
+   --green:#44bb6a;
    --white:#000;
    --pure-white:#fff;
    --light-white:#000;
@@ -16,7 +16,6 @@
    outline: none; border:none;
    text-decoration: none;
    transition: .2s linear;
-   text-transform: capitalize;
 }
 
 *::selection{
@@ -187,7 +186,7 @@ section{
 
 .category .box-container .box h3 {
   font-size: 2rem;
-  color:#00E77F;
+  color:#44bb6a;
 }
 
 .category .box-container .box p {
